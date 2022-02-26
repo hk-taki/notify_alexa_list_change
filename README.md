@@ -1,0 +1,2 @@
+# notify_alexa_list_change
+アレクサのリスト（買い物リストなど）の変更をライン通知するPythonプログラム
